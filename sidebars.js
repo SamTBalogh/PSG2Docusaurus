@@ -27,7 +27,7 @@ const sidebars = {
       collapsed: false,
       link: {
         type: 'doc',
-        id: 'intro',
+        id: 'intro-reports',
       },
       items: [
         'technical-reports/management-metodology',

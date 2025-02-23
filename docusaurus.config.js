@@ -85,7 +85,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'intro-reports',
             position: 'left',
             label: 'Technical Reports',
           },
@@ -111,8 +111,12 @@ const config = {
             title: 'Docs',
             items: [
               {
+                label: 'Credits',
+                to: '/docs/credits',
+              },
+              {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/intro-tutorial',
               },
             ],
           },

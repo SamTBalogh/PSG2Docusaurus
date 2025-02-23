@@ -8,32 +8,30 @@ title: Project History
 
 ## Realizado por:
 
-| David Escudero Aldana            |
-| Marta de la Calle González       |
-| Peter Philip Carter González     |
-| Fernando Triguero Caballo        |
-| José Manuel García Rosa          |
-| Samuel Tamayo Balogh             |
+- David Escudero Aldana  
+- Marta de la Calle González  
+- Peter Philip Carter González  
+- Fernando Triguero Caballo  
+- José Manuel García Rosa  
+- Samuel Tamayo Balogh  
 
-# ÍNDICE
+## ÍNDICE
 
-[1\. Introducción	4](#1.-introducción)
+[1. Introducción](#introduccion)
 
-[2\. Línea de Tiempo de los Commits	4](#2.-línea-de-tiempo-de-los-commits)
+[2. Línea de Tiempo de los Commits](#linea-tiempo-commits)
 
-[3\. Identificación y Resolución de Conflictos	5](#3.-identificación-y-resolución-de-conflictos)
+[3. Identificación y Resolución de Conflictos](#identificacion-resolucion-conflictos)
 
-[4\. Descripción del Flujo de Trabajo	5](#4.-descripción-del-flujo-de-trabajo)
+[4. Descripción del Flujo de Trabajo](#descripcion-flujo-trabajo)
 
-[5\. Análisis de Colaboración	6](#5.-análisis-de-colaboración)
+[5. Análisis de Colaboración](#analisis-colaboracion)
 
-[6\. Conclusión	6](#heading=h.3dy6vkm)
-
-# **1\. Introducción** {#1.-introducción}
+## 1. Introducción {#introduccion}
 
 Este documento describe la historia del desarrollo del proyecto Petclinic dentro del grupo PSG2-2425-G1-15. Se detalla la línea de tiempo de los commits, la estrategia de trabajo utilizada, los conflictos encontrados y las soluciones aplicadas.
 
-# **2\. Línea de Tiempo de los Commits** {#2.-línea-de-tiempo-de-los-commits}
+## 2. Línea de Tiempo de los Commits {#linea-tiempo-commits}
 
 ![][image1]
 
@@ -43,13 +41,13 @@ El desarrollo del proyecto siguió un flujo de trabajo estructurado basado en Gi
 * **Implementación de funcionalidades y cambios necesarios (08/02/2025 \- 20/02/2025)**: Cada miembro del equipo realizó cambios en sus respectivas áreas, como la personalización de la interfaz y ajustes en la configuración. Se desarrollaron características como la creación de habitaciones de hotel para mascotas, ajustes en los planes de precios y mejoras en la página de consultas.  
 * **Finalización y Documentación (21/02/2025)**: Se generaron los informes técnicos y se preparó la entrega del Sprint.
 
-# **3\. Identificación y Resolución de Conflictos** {#3.-identificación-y-resolución-de-conflictos}
+## 3. Identificación y Resolución de Conflictos {#identificacion-resolucion-conflictos}
 
 Durante el desarrollo del proyecto, se presentaron algunos conflictos en la integración de cambios. Los principales conflictos detectados fueron:
 
 * **Conflictos en la actualización de `pom.xml`**: Varios miembros del equipo modificaron simultáneamente este archivo. Se resolvió revisando los cambios de cada miembro y unificando las modificaciones en un solo commit.
 
-# **4\. Descripción del Flujo de Trabajo** {#4.-descripción-del-flujo-de-trabajo}
+## 4. Descripción del Flujo de Trabajo {#descripcion-flujo-trabajo}
 
 El equipo utilizó una estrategia basada en Git Flow con las siguientes prácticas:
 
@@ -57,7 +55,7 @@ El equipo utilizó una estrategia basada en Git Flow con las siguientes práctic
 * **Revisión de código antes de fusionar cambios**: Se estableció un proceso de peer review para garantizar la calidad del código.  
 * **Commits estructurados**: Se definieron convenciones para los mensajes de commit, incluyendo prefijos como `feat:`, `fix:`, `docs:`, etc.
 
-# **5\. Análisis de Colaboración** {#5.-análisis-de-colaboración}
+## 5. Análisis de Colaboración {#analisis-colaboracion}
 
 El equipo trabajó en paralelo en diferentes tareas y funcionalidades, asegurando que cada miembro pudiera contribuir sin interferencias significativas. La estrategia de commits frecuentes y revisiones ayudó a mantener un flujo de trabajo organizado y eficiente.
 

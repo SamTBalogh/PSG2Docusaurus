@@ -1,5 +1,5 @@
 ---
-id: intro
+id: intro-reports
 title: Introduction to Technical Reports
 ---
 
