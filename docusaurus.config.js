@@ -85,7 +85,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'intro-reports',
             position: 'left',
             label: 'Technical Reports',
           },
