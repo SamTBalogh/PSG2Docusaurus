@@ -116,7 +116,7 @@ const config = {
               },
               {
                 label: 'Tutorial',
-                to: '/docs/intro-Tutorial',
+                to: '/docs/intro-tutorial',
               },
             ],
           },
