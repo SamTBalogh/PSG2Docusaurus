@@ -2,7 +2,7 @@ name: Deploy Documentation
 
 on:
   release:
-    types: [published]  # Se activa cuando se publica una nueva release
+    types: [published]
 
 jobs:
   deploy:
